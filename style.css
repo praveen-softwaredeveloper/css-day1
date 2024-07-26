@@ -1,0 +1,26 @@
+#name{
+    color:purple;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+     /*  ID selector*/
+
+}
+.first{
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+     /*  class selector*/
+}
+*{
+    font-weight: bold;
+    /*  Universal selector*/
+}
+p{
+    padding-left: 20px;
+     /*  tag selector*/
+}
+h4,pre{
+    font-style: italic;
+    padding-left: 20px;
+}
